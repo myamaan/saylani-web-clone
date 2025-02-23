@@ -16,8 +16,8 @@ body {
 }
 
 @font-face {
-    font-family: "poppins";
-    src: url(./assests/Poppins/Poppins-Medium.ttf);
+    font-family:poppins ;
+    src: url(./fonts/Poppins/Poppins-Medium.ttf);
 }
 
 /* bg-color */
